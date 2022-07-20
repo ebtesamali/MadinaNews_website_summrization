@@ -1,5 +1,5 @@
 # MadinaNews_website_summrization
-## Arabic Text Summarization 
+### Arabic Text Summarization 
 Summarization can be defined as the task of producing a concise and fluent summary while preserving key information and overall meaning. Impact Summarization systems often have additional evidence they can utilize to specify the most important topics of a document(s). For example, when summarizing blogs, discussions, or comments coming after the blog post that are good sources of information to determine which parts of the blog are critical and interesting.  
 
 ### This project has two mains tasks :
